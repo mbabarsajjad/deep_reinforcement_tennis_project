@@ -1,8 +1,6 @@
 # deep_reinforcement_tennis_project
 Project 3 of Udacity's Deep Reinforcement Learning nanodegree program
 
-# Continous Control Project for Double-Jointed Robotic Arm
-Project 2 of Udacity's Deep Reinforcement Learning nanodegree program
 
 ## Project Details
 In this project, agents are trained to continously control the double-jointed robotic arm. The goal of the agents is to maintain the position at the target location for as many time steps as possible. The aim of the project is to train the agents so that they must get an average score of +30 (over 100 consecutive episodes, and over all agents).
