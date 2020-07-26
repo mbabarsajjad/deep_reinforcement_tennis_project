@@ -19,7 +19,7 @@ LR_CRITIC = 1e-3        # learning rate of the critic
 ~~~
 
 ##  Plot of Rewards
-![Scores](score.PNG)  
+![Scores](scores.PNG)  
 The Average score (over 100 episodes) of +0.51! was achieved at episode: 658. 
 
 ##  Ideas for Future Work  
