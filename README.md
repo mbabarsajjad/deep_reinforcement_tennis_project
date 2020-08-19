@@ -1,6 +1,8 @@
 # deep_reinforcement_tennis_project
 Project 3 of Udacity's Deep Reinforcement Learning nanodegree program
 
+![](ezgif.com-video-to-gif.gif)
+
 
 ## Project Details
 The aim of this project is to train two agents to control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
