@@ -1,5 +1,5 @@
-# deep_reinforcement_tennis_project
-### Project 3 of Udacity's Deep Reinforcement Learning nanodegree program
+# Project 3 of Udacity's Deep Reinforcement Learning nanodegree program
+### Train Two Agents to play Tennis 
 
 ![](ezgif.com-video-to-gif.gif)
 
